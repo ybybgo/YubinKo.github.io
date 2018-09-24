@@ -17,9 +17,6 @@ date_format: '%Y.%m.%d'
 url: https://yubinko.github.io/
 baseurl:
 permalink: pretty
-
-plugins:
-  - jekyll-sitemap
   
 # Pagination
 paginate: 10
@@ -93,7 +90,7 @@ rss:
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: heart Star
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -225,11 +222,11 @@ font:
 #   Map a menu item to a specific FontAwesome icon name.
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
-social_icons:
+social_icons: 
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
+  Facebook: [facebook] (https://www.facebook.com/go.yubin "facebook")
   Twitter: twitter
   Weibo: weibo
 
