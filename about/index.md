@@ -3,4 +3,4 @@ layout: page
 type: about
 ---
 
-Building...
+#Someone trying to think right and live right
