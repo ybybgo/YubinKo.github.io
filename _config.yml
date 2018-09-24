@@ -18,6 +18,9 @@ url:
 baseurl:
 permalink: pretty
 
+plugins:
+  - jekyll-sitemap
+  
 # Pagination
 paginate: 10
 #paginate_path: "/page:num/"
