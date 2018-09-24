@@ -215,9 +215,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
-social:
-  enable: true
-  Facebook: https://www.facebook.com/go.yubin
+social_icons:
+  facebook: https://www.facebook.com/go.yubin
 
 
 # Social Links Icons
