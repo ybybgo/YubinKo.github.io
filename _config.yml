@@ -118,10 +118,11 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
+  archives: /archives/
+  tags: /tags/
+  about: /about/
   #categories: /categories/
   #about: /about/
-  archives: /archives/
-  about: /about/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -439,7 +440,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-109370265-2
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
