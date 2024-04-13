@@ -14,7 +14,7 @@ date_format: '%Y.%m.%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://yubinko.github.io/
+url: https://ybybgo.github.io/
 baseurl:
 permalink: pretty
   
@@ -217,8 +217,8 @@ font:
 #social:
   #LinkLabel: Link
 social:
-  Facebook: https://www.facebook.com/go.yubin
   Instagram: https://www.instagram.com/yubin.go/
+  LinkedIn: https://kr.linkedin.com/in/yubingo/
 
 
 # Social Links Icons
